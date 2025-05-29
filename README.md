@@ -24,17 +24,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-green.svg)
 ![Websockets](https://img.shields.io/badge/Websockets-11.0.3-purple.svg)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-yes-yellow.svg)
-![Pytest](https://img.shields.io/badge/Testing-Pytest-7.4.0-red.svg)
 
 ---
-
-
-| **Визуализация роя**                                                   | **План миссии на карте**                                         |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![Swarm](https://via.placeholder.com/300x200?text=Swarm+Visualization) | ![Map](https://via.placeholder.com/300x200?text=Mission+Planner) |
-
-*(Добавьте сюда реальные скриншоты или анимации после тестов)*
-
 ---
 
 Этот проект демонстрирует, как можно применять **роевую координацию** и **оптимизированные алгоритмы** для решения задач спасения и реагирования на пожары.
